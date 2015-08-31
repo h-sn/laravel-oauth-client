@@ -1,5 +1,5 @@
 {
-    "name": "kalley/laravel-oauth-client",
+    "name": "h-sn/laravel-oauth-client",
     "description": "OAuth 1.0 and 2.0 Client for Laravel",
     "keywords": ["laravel","illuminate","oauth","client"],
     "license": "MIT",
